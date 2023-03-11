@@ -8,7 +8,7 @@ I am a software engineer graduated by the University of the Basque Country. Tech
 
 * 🌍  I'm based in Irun
 * ✉️  You can contact me at [ibereciartua99@gmail.com](mailto:ibereciartua99@gmail.com)
-* 🚀  I'm currently working on [Glucovibes](http://glucovibes.com)
+* 🚀  I'm currently working at [Glucovibes](http://glucovibes.com)
 * 🧠  I'm learning Svelte
 
 ### Skills
