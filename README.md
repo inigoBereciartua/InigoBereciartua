@@ -8,7 +8,7 @@ I am a software engineer graduated by the University of the Basque Country. Tech
 
 * 🌍  I'm based in Irun, Gipuzkoa
 * ✉️  You can contact me at [ibereciartua99@gmail.com](mailto:ibereciartua99@gmail.com)
-* 🚀  I'm currently working at [Glucovibes](http://glucovibes.com)
+* 🚀  I'm currently working at [Volkswagen Digital:Hub](https://www.linkedin.com/company/volkswagen-digital-hub/)
 * 🧠  I'm learning Svelte
 * 🎵  My independent venture is [Norelearn](https://norelearn.com), an app to learn music powered by AI
 
